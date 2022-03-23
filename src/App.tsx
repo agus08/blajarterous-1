@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React! EPIC 3</p>
+        <p>Hello Vite + React! EPIC 4</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
@@ -17,6 +17,7 @@ function App() {
         </p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates. Hotfix 1 update
+          Epic 4 update
         </p>
         <p>
           <a
