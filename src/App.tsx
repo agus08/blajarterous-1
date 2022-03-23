@@ -16,8 +16,7 @@ function App() {
           </button>
         </p>
         <p>
-          Edit <code>App.tsx</code> and save to test HMR updates. Hotfix 1
-          Epic 4 update
+          Edit <code>App.tsx</code> and save to test HMR updates.
         </p>
         <p>
           <a
